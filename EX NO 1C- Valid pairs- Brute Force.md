@@ -24,7 +24,7 @@ x if x >= 0.
 
 ## Program:
 
-### to implement Reverse a String
+### to implement brute force - valid pairs
 
 ```java
 public class Main {

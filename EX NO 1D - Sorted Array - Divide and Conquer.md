@@ -21,8 +21,7 @@ The overall run time complexity should be O(log (m+n)).
 
 ## Program:
 
-### to implement Reverse a String
-
+### to implement divide and conquer - median of two sorted arrays
 ```java
 public class Main {
 

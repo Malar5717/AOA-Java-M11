@@ -21,7 +21,7 @@ Unlike traditional matrix multiplication which takes O(n3)O(n^3)O(n3) time, Stra
 
 ## Program:
 
-### to implement Reverse a String
+### to implement strassens algorithm
 
 ```java
 public class Main {

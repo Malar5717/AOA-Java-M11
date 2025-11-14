@@ -18,7 +18,7 @@ To Write a Java program that takes an integer input N from the user and prints a
 #### Register Number: 212223230118
 
 ## Program:
-
+### to implement printing of numbers
 ```java
 import java.util.Scanner;
 
